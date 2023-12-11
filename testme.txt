@@ -1,0 +1,12 @@
+cd
+echo cd!
+sh
+echo sh!
+csh
+echo csh!
+tcsh
+echo tcsh!
+ksh
+echo ksh!
+echo I'm done!
+exit
