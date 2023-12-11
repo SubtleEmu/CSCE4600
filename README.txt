@@ -8,3 +8,4 @@ csh
 tcsh
 ksh
 bash
+zsh
